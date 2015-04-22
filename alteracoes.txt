@@ -1,0 +1,20 @@
+No rigidbody:
+- Alterado mass (moto é menor que um carro)
+- Angular drag aumentado para diminuir o quanto a moto rotaciona.
+
+
+
+Nos wheel joints:
+- Frequency aumentada (aumenta velocidade?)
+- Maximum motor force aumentado (aumenta velocidade/aceleração maxima?)
+
+
+
+No script:
+- maxMotorTorque aumentado pra igualar o que está na wheel joint (ele cria um novo motor no script, então não adianta trocar no wheel joint)
+- motorSpeed aumentado pra deixar a velocidade em si maior.
+
+
+
+No material:
+- Diminuida a fricção pra evitar que a moto "empine" demais. Isso diminui a velocidade mas dá muito mais controle.
