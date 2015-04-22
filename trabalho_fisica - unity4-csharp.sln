@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{F74CFA50-586F-47F5-FE7E-4C53669BB499}") = "trabalho_fisica", "Assembly-CSharp-vs.csproj", "{7FF9BD2F-F4A6-1508-8D99-D0C432962557}"
+Project("{B1A8C22F-9811-2F4D-2ACA-56AFC81EB26B}") = "trabalho_fisica - unity4", "Assembly-CSharp-vs.csproj", "{E7854298-BFC1-1874-9802-7A1BFB19F3F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7FF9BD2F-F4A6-1508-8D99-D0C432962557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FF9BD2F-F4A6-1508-8D99-D0C432962557}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FF9BD2F-F4A6-1508-8D99-D0C432962557}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FF9BD2F-F4A6-1508-8D99-D0C432962557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7854298-BFC1-1874-9802-7A1BFB19F3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7854298-BFC1-1874-9802-7A1BFB19F3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7854298-BFC1-1874-9802-7A1BFB19F3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7854298-BFC1-1874-9802-7A1BFB19F3F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-										GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
